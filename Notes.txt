@@ -1,0 +1,10 @@
+git clone <url> -   this comaand is used to clone repository
+git status - To check file status
+git add .  - Stage all changes
+git commit -m "msg" - commit changes
+git push  - push changes to remote
+git pull  - Get latest changes
+git branch - list branches
+git checkout <branch name> - Switch branch
+git checkout -b <name> - create + switch branch 
+git Merge <branch name > 
